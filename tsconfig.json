@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "outDir": "dist",
+        "strict": true,
+        "noEmitOnError": true,
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "target": "ES5"
+    },
+    "include": ["src/**/*.ts"],
+    "exclude": [
+        "node_modules"
+    ]
+}
