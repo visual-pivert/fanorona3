@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "tsc --watch",
     "dev": "tsc",
+    "build": "tsc",
     "start": "node ./dist/main.js"
   },
   "author": "",

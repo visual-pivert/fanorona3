@@ -6,7 +6,8 @@
         "noEmitOnError": true,
         "moduleResolution": "node",
         "noImplicitAny": true,
-        "target": "ES5"
+        "target": "ES2019",
+        "sourceMap": true
     },
     "include": ["src/**/*.ts"],
     "exclude": [
